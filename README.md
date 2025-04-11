@@ -1,3 +1,6 @@
+I am leaving this from the template I used as to give credit to the original creator.
+
+
 # Raylib-CPP-Starter-Template-for-VSCODE-V2
 Raylib C++ Starter Template for Visual Studio Code on Windows.
 This demo project contains a bouncing ball raylib example program.
